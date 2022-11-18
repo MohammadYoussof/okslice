@@ -1,6 +1,6 @@
 Hello!!!!
 ===============
-  Teem: These are tools to process and visualize images
+  These are tools to process and visualize images
   Copyright (C) 2013, 2012, 2011, 2010, 2009  University of Chicago
   Copyright (C) 2008, 2007, 2006, 2005  Gordon Kindlmann
   Copyright (C) 2004, 2003, 2002, 2001, 2000, 1999, 1998  University of Utah
@@ -92,6 +92,9 @@ http://teem.sourceforge.net/build.html
 * Examples/
   Place for examples of Teem-using programs, but unfortunately
   not populated by much right now.  A work in progress.
+  
+ * C_copy/
+  unrelated codes
 
 =============== Teem libraries
 
